@@ -7,5 +7,6 @@ public class Num{
 		a=sc.nextInt();
 		System.out.println(a);
 		System.out.println(a+1);
+		System.out.println(a+2);
 	}
 }
